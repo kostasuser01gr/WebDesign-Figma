@@ -111,7 +111,7 @@
     "tailwindcss": "4.1.12",
     "terser": "^5.37.0",
     "typescript": "^5.7.3",
-    "vite": "6.3.5",
+    "vite": "6.4.2",
     "vite-plugin-compression": "^0.5.1",
     "vitest": "^2.1.8"
   },
@@ -129,7 +129,7 @@
   },
   "pnpm": {
     "overrides": {
-      "vite": "6.3.5"
+      "vite": "6.4.2"
     }
   }
 }
